@@ -1,0 +1,5 @@
+########################################################################################################################################
+#################################################### Please read before using the program ##############################################
+- Thanks to copy the folder of this programm in this directorie
+C:/Users/Gaelo/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup
+- finally launch the program
